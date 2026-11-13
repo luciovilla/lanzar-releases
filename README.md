@@ -25,15 +25,9 @@
 ## One base resume. A tailored copy for every job.
 
 Write your full history once. When you save a job, start its resume from your base and trim it to fit the posting. Edit on the left, see the page on the right, and export a PDF when it's ready.
-
-<img src=".github/editor.png" alt="The resume editor with content sections on the left and a live page preview on the right.">
-
 ## See where every application stands.
 
 Save a job with its link and posting, then drag it from To apply to Applied, Interviewing, and Offer. Each card keeps its resume, cover letter, and notes together, so you always know what you sent.
-
-<img src=".github/board.png" alt="The job applications board with columns for To apply, Applied, Interviewing, Offer, and Closed.">
-
 ## Everything else your search needs
 
 - **Import your old resume.** Drop in a PDF and Lanzar pulls every section into an editable resume.
@@ -52,8 +46,6 @@ Get the installer for your system from the [latest release](https://github.com/l
 | macOS, Apple silicon (M1 and later) | `Lanzar-<version>-arm64.dmg` |
 | macOS, Intel | `Lanzar-<version>.dmg` |
 | Windows (x64 and Arm) | `Lanzar-Setup-<version>.exe` |
-
-The macOS builds are signed and notarized. The Windows installer is not signed yet, so Windows SmartScreen may warn you the first time; choose **More info → Run anyway**.
 
 Once installed, Lanzar checks for new versions on its own and installs them when you restart.
 
