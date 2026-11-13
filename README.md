@@ -1,31 +1,51 @@
 <p align="center">
-  <img src=".github/icon.png" width="128" height="128" alt="Lanzar app icon">
+  <img src=".github/icon.png" width="112" height="112" alt="Lanzar app icon">
 </p>
 
 <h1 align="center">Lanzar</h1>
 
 <p align="center">
-  A desktop resume editor and job application tracker for macOS and Windows.<br>
-  Your resumes, cover letters, and applications stay on your computer.
+  <strong>Your resume and job search, in one place.</strong><br>
+  A desktop app for macOS and Windows. Keep one base resume, tailor a copy for each job,
+  and track every application from saved to offer. Your files stay on your computer.
 </p>
 
 <p align="center">
   <a href="https://github.com/luciovilla/lanzar-releases/releases/latest"><strong>Download the latest release</strong></a>
   ·
+  <a href="https://www.luciovilla.com/lanzar">Website</a>
+  ·
   <a href="https://github.com/luciovilla/lanzar-releases/releases">All releases</a>
 </p>
 
-## What it does
+<p align="center">
+  <img src=".github/home.png" alt="Lanzar's Home screen: recent tailored resumes, recent job applications with their status, and upcoming follow-ups.">
+</p>
 
-- **Track job applications.** Save each job with its posting, then follow it through To Apply, Applied, Interviewing, and Offer in a list or board view. Set follow-up reminders so nothing slips.
-- **Edit resumes.** Keep your full work history in a base resume, then copy it into a tailored resume for each job. Import an existing resume, restore earlier versions, and fit it to one page.
-- **Write cover letters.** Create a cover letter for a job and keep it next to the resume you sent.
-- **Export PDFs.** Choose from ten bundled fonts and export print-ready PDFs, all offline.
-- **Stay up to date.** Lanzar checks this repository for new versions and installs them when you restart.
+## One base resume. A tailored copy for every job.
+
+Write your full history once. When you save a job, start its resume from your base and trim it to fit the posting. Edit on the left, see the page on the right, and export a PDF when it's ready.
+
+<img src=".github/editor.png" alt="The resume editor with content sections on the left and a live page preview on the right.">
+
+## See where every application stands.
+
+Save a job with its link and posting, then drag it from To apply to Applied, Interviewing, and Offer. Each card keeps its resume, cover letter, and notes together, so you always know what you sent.
+
+<img src=".github/board.png" alt="The job applications board with columns for To apply, Applied, Interviewing, Offer, and Closed.">
+
+## Everything else your search needs
+
+- **Import your old resume.** Drop in a PDF and Lanzar pulls every section into an editable resume.
+- **Check before you send.** Catches a page that runs long, dates out of order, and empty sections.
+- **History for every document.** Each save is a version. Name the good ones and restore any of them.
+- **Cover letters per job.** Write a letter next to the posting, attached to the application it belongs to.
+- **Templates and fonts.** One- or two-column layouts and ten bundled fonts that work offline.
+- **English y Español.** Use the app in either language. Each resume keeps its own language.
 
 ## Download
 
-Get the installer for your system from the [latest release](https://github.com/luciovilla/lanzar-releases/releases/latest):
+Get the installer for your system from the [latest release](https://github.com/luciovilla/lanzar-releases/releases/latest), or from the [download page](https://www.luciovilla.com/lanzar/download):
 
 | System | File |
 |---|---|
@@ -35,9 +55,11 @@ Get the installer for your system from the [latest release](https://github.com/l
 
 The macOS builds are signed and notarized. The Windows installer is not signed yet, so Windows SmartScreen may warn you the first time; choose **More info → Run anyway**.
 
-## Privacy
+Once installed, Lanzar checks for new versions on its own and installs them when you restart.
 
-All of your data is stored on disk on your own computer. Installed copies send anonymous usage counts, such as how many resumes are created or PDFs exported, which never include document content. You can turn this off in **Settings → Usage data**.
+## Your job search stays on your computer
+
+Resumes, letters, and applications are files on your disk. There's no account to create and nothing to sync. Lanzar sends anonymous usage counts, never your documents, and you can turn them off in **Settings → Usage data**. See the [privacy policy](https://www.luciovilla.com/lanzar/privacy).
 
 ## About this repository
 
