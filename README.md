@@ -22,12 +22,6 @@
   <img src=".github/home.png" alt="Lanzar's Home screen: recent tailored resumes, recent job applications with their status, and upcoming follow-ups.">
 </p>
 
-## One base resume. A tailored copy for every job.
-
-Write your full history once. When you save a job, start its resume from your base and trim it to fit the posting. Edit on the left, see the page on the right, and export a PDF when it's ready.
-## See where every application stands.
-
-Save a job with its link and posting, then drag it from To apply to Applied, Interviewing, and Offer. Each card keeps its resume, cover letter, and notes together, so you always know what you sent.
 ## Everything else your search needs
 
 - **Import your old resume.** Drop in a PDF and Lanzar pulls every section into an editable resume.
