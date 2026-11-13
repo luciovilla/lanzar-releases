@@ -22,7 +22,7 @@
   <img src=".github/home.png" alt="Lanzar's Home screen: recent tailored resumes, recent job applications with their status, and upcoming follow-ups.">
 </p>
 
-## Everything else your search needs
+## Features
 
 - **Import your old resume.** Drop in a PDF and Lanzar pulls every section into an editable resume.
 - **Check before you send.** Catches a page that runs long, dates out of order, and empty sections.
